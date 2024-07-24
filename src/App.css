@@ -1,8 +1,15 @@
 .container {
   width: 60%;
   margin: 0 auto;
+  margin-top: 50px;
 }
 
 main {
   min-height: 72vh;
+}
+.add-todo {
+  padding: 20px;
+}
+.btn-add {
+  margin: 10px !important;
 }
